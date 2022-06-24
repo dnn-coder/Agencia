@@ -20,8 +20,11 @@ body {
     background: var(--fondo);
 }
 
-img {
+.img {
     vertical-align: top;
+    background-image: url('./img/footer.png');
+    height: 250px;
+    width: 250px;
 }
 
 
